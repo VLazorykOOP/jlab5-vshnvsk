@@ -1,0 +1,2 @@
+Yulian,Krushelnytskyi,Yosypovych,34,Machinist,16000,Machinist,2
+Vitalina,Shulga,Olehivna,32,Operator,20000,Computer operator,3

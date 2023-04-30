@@ -1,0 +1,4 @@
+Ladolyub,Cooper,Makarovych,39,Economist,20000,Economist
+Katria,Sukhetska,Arsenivna,26,Assistant,18000,Philologist
+Zlata,Hrabovetska,Denisivna,35,Broker,21000,Economist
+Yaroslav,Lutsiv,Frolovich,29,Technician,15000,Lawyer
